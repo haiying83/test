@@ -4,3 +4,34 @@ C语言学习
 《The C Programming Language》http://book.douban.com/subject/1230004/
 
 《C程序设计语言（第2版·新版）》http://book.douban.com/subject/1139336/
+
+个人建议可以看看Lua、Sqlite、Nginx这些项目的代码，代码量不多，而且代码质量也都比较高。
+另外可以看看Linux内核代码，坊间有不少书籍可以帮助解读。关于如何很好的阅读代码，
+大家可以参考《Code Reading》这本书。
+
+还可以到http://stackoverflow.com 参与回答问题，浏览其他人的问题解答来汲取知识，
+比如这篇http://stackoverflow.com/questions/2054939/char-is-signed-or-unsigned-by-default 
+就介绍了一个C语言关于char类型的小陷阱。
+
+当C语言学习的差不多时候，还可以学习一门动态语言，比如Lua或者Python，
+试着在实际工作项目中混合使用动态语言与C语言
+
+程序员往往是懒惰的，“拿来主义”、“拷贝主义”很流行也很有效，当对某个函数或者关键字不是很理解的时候，
+看看别人是怎么使用的，会非常有启发性。这里介绍几个常用的代码搜索网站，最常用的是google的
+codesearch：http://codesearch.google.com ，可以通过不同条件及正则表达式搜索特定关键词。
+另外可以参考维基百科上一个“带有C语言示例的文章”分类，里面代码写的也很不错。还可以在github.com上搜索相关项目。
+在前面博客文章我还介绍了一个名为罗塞塔代码的网站http://rosettacode.org/ 
+这个网站上可以找到不同程序语言针对某个问题的解决方案，用于学习比较非常便利。
+
+可以找到大量C语言编程相关资料的地方是“美味书签”，通过搜索特定关键字 （C + programming）就可以找到很多值得挖掘的资源
+http://delicious.com/search?p=c+programming。
+还可以参考dmoz.org的C语言分类http://www.dmoz.org/Computers/Programming/Languages/C/ 相比美味书签时效性能差点，
+但是分类比较系统，查找也要容易一些。
+
+
+
+
+
+
+
+
